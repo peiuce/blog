@@ -1,2 +1,2 @@
-# peiuce.github.io
+# blog.amaranth.ga
 webpage
