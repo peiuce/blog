@@ -3,15 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://blog.amaranth.ga/categories/</loc>
-  </url>
-  
-  <url>
     <loc>http://blog.amaranth.ga/</loc>
-  </url>
-  
-  <url>
-    <loc>http://blog.amaranth.ga/tags/</loc>
   </url>
   
 </urlset>
