@@ -3,6 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.amaranth.ga/project/project1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://blog.amaranth.ga/project/project2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://blog.amaranth.ga/project/project3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://blog.amaranth.ga/project/project4/</loc>
+  </url>
+  
+  <url>
     <loc>https://blog.amaranth.ga/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
@@ -82,7 +98,43 @@
   </url>
   
   <url>
+    <loc>https://blog.amaranth.ga/archive/</loc>
+  </url>
+  
+  <url>
+    <loc>https://blog.amaranth.ga/tags/bootstrap/</loc>
+  </url>
+  
+  <url>
     <loc>https://blog.amaranth.ga/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://blog.amaranth.ga/tags/css/</loc>
+  </url>
+  
+  <url>
+    <loc>https://blog.amaranth.ga/tags/highlight-js/</loc>
+  </url>
+  
+  <url>
+    <loc>https://blog.amaranth.ga/tags/html/</loc>
+  </url>
+  
+  <url>
+    <loc>https://blog.amaranth.ga/tags/js/</loc>
+  </url>
+  
+  <url>
+    <loc>https://blog.amaranth.ga/project/</loc>
+  </url>
+  
+  <url>
+    <loc>https://blog.amaranth.ga/tags/responsive/</loc>
+  </url>
+  
+  <url>
+    <loc>https://blog.amaranth.ga/tags/syntax-highlighting/</loc>
   </url>
   
 </urlset>

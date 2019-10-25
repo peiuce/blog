@@ -12,6 +12,42 @@
     
     
     <item>
+      <title>Project 1</title>
+      <link>https://blog.amaranth.ga/project/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.amaranth.ga/project/project1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 2</title>
+      <link>https://blog.amaranth.ga/project/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.amaranth.ga/project/project2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 3</title>
+      <link>https://blog.amaranth.ga/project/project3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.amaranth.ga/project/project3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 4</title>
+      <link>https://blog.amaranth.ga/project/project4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.amaranth.ga/project/project4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Creating a New Theme</title>
       <link>https://blog.amaranth.ga/post/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
@@ -64,6 +100,15 @@ Follow the following steps:
       
       <guid>https://blog.amaranth.ga/about/</guid>
       <description>Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again. Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content. Since websites are viewed far more often than they are edited, Hugo is designed to provide an optimal viewing experience for your website’s end users and an ideal writing experience for website authors.</description>
+    </item>
+    
+    <item>
+      <title>Archive page</title>
+      <link>https://blog.amaranth.ga/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.amaranth.ga/archive/</guid>
+      <description></description>
     </item>
     
   </channel>
