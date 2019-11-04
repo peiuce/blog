@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Welcome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2019 15:38:38 +0900</lastBuildDate>
     
 	<atom:link href="https://blog.amaranth.ga/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>블로그 개설! 드디어~</title>
+      <link>https://blog.amaranth.ga/post/amaranth-go-go-is-created/</link>
+      <pubDate>Fri, 25 Oct 2019 15:38:38 +0900</pubDate>
+      
+      <guid>https://blog.amaranth.ga/post/amaranth-go-go-is-created/</guid>
+      <description>예전부터 생각만 해오다가, 드디어 Blog 개설을 완료~ 장하다~
+하지만 이곳에 포스팅 할 생각하니 미리부터 스트레! 일단 마크다운 사용법에 좀 익숙 해 져야 하겠다.</description>
+    </item>
     
     <item>
       <title>Creating a New Theme</title>
