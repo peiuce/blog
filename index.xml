@@ -6,7 +6,7 @@
     <description>Recent content on Welcome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 25 Oct 2019 15:38:38 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.amaranth.ga/index.xml" rel="self" type="application/rss+xml" />
     
@@ -48,6 +48,20 @@
     </item>
     
     <item>
+      <title>NAS 관련 설정 기록</title>
+      <link>https://blog.amaranth.ga/post/start-nas-configuration/</link>
+      <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.amaranth.ga/post/start-nas-configuration/</guid>
+      <description>개인적으로 자작 나스를 쓰면서 현재까지의 사항을 기록합니다.
+대략적인 아젠다를 보면,
+- 도메인 생성 및 DNS 구성 - 공유기 설정 - 나스 세팅 으로 흘러갑니다.
+개인적인 구성상황은 아래와 같습니다.
+ ESXI 6.7 Xpenology 6.2: 메인 스토리지 공간 Windows 10 LTSC: Plex Server 및 기타 RDP 작업 Core OS: Docker Container OS Ubuntu``` : 이것저것.. 블로그도 여기서 관리
+무료 1차 도메인을 가지고, 2차 도메인으로 모든 서비스들에 접속을 하며, 모든 connection 은 SSL(https) 기반하에 설정 되어 있습니다</description>
+    </item>
+    
+    <item>
       <title>블로그 개설! 드디어~</title>
       <link>https://blog.amaranth.ga/post/amaranth-go-go-is-created/</link>
       <pubDate>Fri, 25 Oct 2019 15:38:38 +0900</pubDate>
@@ -56,52 +70,6 @@
       <description>예전부터 생각만 해오다가, 드디어 Blog 개설을 완료! 장하다~
 하지만 이곳에 포스팅 할 생각하니 미리부터 스트레스!
 일단 마크다운 사용법에 좀 익숙 해 져야 하겠다.</description>
-    </item>
-    
-    <item>
-      <title>Creating a New Theme</title>
-      <link>https://blog.amaranth.ga/post/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.amaranth.ga/post/creating-a-new-theme/</guid>
-      <description>Introduction  서창교 입니다. 동해물과 백두산이
-This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://blog.amaranth.ga/post/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.amaranth.ga/post/goisforlovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://blog.amaranth.ga/post/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.amaranth.ga/post/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
-    </item>
-    
-    <item>
-      <title>Migrate from Jekyll</title>
-      <link>https://blog.amaranth.ga/post/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.amaranth.ga/post/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
     
     <item>

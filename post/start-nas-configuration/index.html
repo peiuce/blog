@@ -5,7 +5,7 @@
 
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>404 Page not found</title>
+        <title>NAS 관련 설정 기록</title>
         
         <style>
 
@@ -94,7 +94,7 @@
         <nav class="navbar navbar-default navbar-fixed-top">
             <div class="container">
                 <div class="navbar-header">
-                    <a class="navbar-brand visible-xs" href="#">404 Page not found</a>
+                    <a class="navbar-brand visible-xs" href="#">NAS 관련 설정 기록</a>
                     <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
@@ -134,10 +134,57 @@
 
 
 <main>
-    <div class="intro">
-        <h1>¯\_(ツ)_/¯</h1>
-        <h2>Nothing here</h2>
+
+    <div>
+        <h2>NAS 관련 설정 기록</h2>
+        <h5>2019-11-05</h5>
+        
+<a href="https://blog.amaranth.ga/tags/nas"><kbd class="item-tag">nas</kbd></a>
+
+
     </div>
+
+    <div align="start" class="content"><p>개인적으로 자작 나스를 쓰면서 현재까지의 사항을 기록합니다.</p>
+
+<p>대략적인 아젠다를 보면,<br />
+- 도메인 생성 및 DNS 구성
+- 공유기 설정
+- 나스 세팅
+으로 흘러갑니다.</p>
+
+<p>개인적인 구성상황은 아래와 같습니다.</p>
+
+<pre><code class="language-공유기```"></code></pre>
+
+<p>ESXI 6.7<code>
+</code>Xpenology 6.2<code>: 메인 스토리지 공간  
+</code>Windows 10 LTSC<code>: Plex Server 및 기타 RDP 작업  
+</code>Core OS<code>: Docker Container OS  
+</code>Ubuntu```           : 이것저것.. 블로그도 여기서 관리</p>
+
+<p>무료 1차 도메인을 가지고, 2차 도메인으로 모든 서비스들에 접속을 하며, 모든 connection 은 SSL(https) 기반하에 설정 되어 있습니다</p>
+
+<p>무료로 1차도메인 확보가 가능한 <code>freenom</code> 및, (도메인 획득만)<br />
+무료로 중 사용자 층이 두터운 <code>Cloudflare</code> DNS 기준 입니다.</p>
+
+<p>ssl 기반의 reverse proxy 는 공유기(asus ac86u) 의 entware/nginx 에서 모두 처리해주도록 구성 하였습니다.</p>
+</div>
+
+    
+    
+    
+
+    
+
+
+    <script src="https://utteranc.es/client.js"
+        repo="peiuce/blog-msg"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+    </script>
+
 </main>
 
         <footer>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Welcome</title>
-    <link>https://blog.amaranth.ga/post/</link>
-    <description>Recent content in Posts on Welcome</description>
+    <title>nas on Welcome</title>
+    <link>https://blog.amaranth.ga/tags/nas/</link>
+    <description>Recent content in nas on Welcome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
     <lastBuildDate>Tue, 05 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://blog.amaranth.ga/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.amaranth.ga/tags/nas/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -23,17 +23,6 @@
 개인적인 구성상황은 아래와 같습니다.
  ESXI 6.7 Xpenology 6.2: 메인 스토리지 공간 Windows 10 LTSC: Plex Server 및 기타 RDP 작업 Core OS: Docker Container OS Ubuntu``` : 이것저것.. 블로그도 여기서 관리
 무료 1차 도메인을 가지고, 2차 도메인으로 모든 서비스들에 접속을 하며, 모든 connection 은 SSL(https) 기반하에 설정 되어 있습니다</description>
-    </item>
-    
-    <item>
-      <title>블로그 개설! 드디어~</title>
-      <link>https://blog.amaranth.ga/post/amaranth-go-go-is-created/</link>
-      <pubDate>Fri, 25 Oct 2019 15:38:38 +0900</pubDate>
-      
-      <guid>https://blog.amaranth.ga/post/amaranth-go-go-is-created/</guid>
-      <description>예전부터 생각만 해오다가, 드디어 Blog 개설을 완료! 장하다~
-하지만 이곳에 포스팅 할 생각하니 미리부터 스트레스!
-일단 마크다운 사용법에 좀 익숙 해 져야 하겠다.</description>
     </item>
     
   </channel>

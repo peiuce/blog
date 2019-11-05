@@ -19,88 +19,38 @@
   </url>
   
   <url>
-    <loc>https://blog.amaranth.ga/tags/everyday/</loc>
-    <lastmod>2019-10-25T15:38:38+09:00</lastmod>
+    <loc>https://blog.amaranth.ga/tags/nas/</loc>
+    <lastmod>2019-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.amaranth.ga/post/start-nas-configuration/</loc>
+    <lastmod>2019-11-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.amaranth.ga/post/</loc>
-    <lastmod>2019-10-25T15:38:38+09:00</lastmod>
+    <lastmod>2019-11-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.amaranth.ga/tags/</loc>
-    <lastmod>2019-10-25T15:38:38+09:00</lastmod>
+    <lastmod>2019-11-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.amaranth.ga/</loc>
+    <lastmod>2019-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.amaranth.ga/tags/everyday/</loc>
     <lastmod>2019-10-25T15:38:38+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.amaranth.ga/post/amaranth-go-go-is-created/</loc>
     <lastmod>2019-10-25T15:38:38+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.amaranth.ga/post/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.amaranth.ga/tags/go/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.amaranth.ga/tags/golang/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.amaranth.ga/tags/hugo/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.amaranth.ga/tags/themes/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.amaranth.ga/post/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.amaranth.ga/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.amaranth.ga/post/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.amaranth.ga/tags/template/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.amaranth.ga/tags/jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.amaranth.ga/post/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.amaranth.ga/tags/static-site-generator/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -124,11 +74,23 @@
   </url>
   
   <url>
+    <loc>https://blog.amaranth.ga/tags/go/</loc>
+  </url>
+  
+  <url>
+    <loc>https://blog.amaranth.ga/tags/golang/</loc>
+  </url>
+  
+  <url>
     <loc>https://blog.amaranth.ga/tags/highlight-js/</loc>
   </url>
   
   <url>
     <loc>https://blog.amaranth.ga/tags/html/</loc>
+  </url>
+  
+  <url>
+    <loc>https://blog.amaranth.ga/tags/hugo/</loc>
   </url>
   
   <url>
